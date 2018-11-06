@@ -159,7 +159,7 @@
 }
 
 .newspaper .front-page .side-bar {
-  width: 150px;
+  width: 180px;
   height: 100%;
   border-left: 1px solid #333;
   float: right;
@@ -225,6 +225,7 @@
   display: -ms-inline-flexbox;
   display: inline-flex;
   text-align: center;
+  padding: 10px 0 0;
 }
 
 .newspaper .front-page .imageInfo .info p {
