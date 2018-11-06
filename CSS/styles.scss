@@ -146,7 +146,7 @@
         height: 500px;
         padding: 0 5px 0 20px;
         .side-bar {
-            width: 180px;
+            width: 177px;
             height: 100%;
             border-left: 1px solid #333;
             float: right;
@@ -195,6 +195,7 @@
             .infoTitle {
                 font-size: 18px;
                 text-transform: uppercase;
+                text-align: center;
             }
             .info {
                 display: inline-flex;
@@ -203,7 +204,7 @@
                 p {
                 width: 250px;
                 font-size: 12px;
-                padding: 10px 15px 0 5px;
+                padding: 5px 15px 0 5px;
                 text-align: justify;
                 }
             }

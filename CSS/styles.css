@@ -159,7 +159,7 @@
 }
 
 .newspaper .front-page .side-bar {
-  width: 180px;
+  width: 177px;
   height: 100%;
   border-left: 1px solid #333;
   float: right;
@@ -218,6 +218,7 @@
 .newspaper .front-page .imageInfo .infoTitle {
   font-size: 18px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .newspaper .front-page .imageInfo .info {
@@ -231,7 +232,7 @@
 .newspaper .front-page .imageInfo .info p {
   width: 250px;
   font-size: 12px;
-  padding: 10px 15px 0 5px;
+  padding: 5px 15px 0 5px;
   text-align: justify;
 }
 /*# sourceMappingURL=styles.css.map */
